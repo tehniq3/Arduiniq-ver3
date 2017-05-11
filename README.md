@@ -2,7 +2,7 @@ Arduiniq-ver3
 =============
 
 I present a personal version of Arduino board
-look also at http://www.niqro.3x.ro/arduino/arduino_handmade.htm
+look also at http://www.arduinotehniq.com/index.php/2017/05/11/home-arduino-arduiniq-ver-3-0/
 
 ![schematic](http://1.bp.blogspot.com/-ZxQTrOCyr4A/VB_wr3zBaPI/AAAAAAAAMJI/Vc_pck-NOnY/s1600/Arduiniq_ver3_schema.JPG)
 
